@@ -1,0 +1,10 @@
+{
+	"name": "node-bitcoin-bootstrap",
+	"description": "Node.JS script for importing unspent transaction outs to the Redis.",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"ref": "0.1.3",
+		"redis": "0.8.2"
+	}
+}
