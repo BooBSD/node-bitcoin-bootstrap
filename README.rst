@@ -1,5 +1,5 @@
 ====================
-importBlocks
+node-bitcoin-bootstrap
 ====================
 
 Node.JS script for importing unspent transaction outs to the Redis.
@@ -8,7 +8,7 @@ Requirements
 ============
 
     * `Redis`
-    * `bootstrap.dat file` (http://archive.org/details/bitcoin_bootstrap.dat)
+    * `Bitcoin bootstrap.dat file` (http://archive.org/details/bitcoin_bootstrap.dat)
 
 Installation
 ============
